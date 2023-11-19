@@ -77,7 +77,7 @@ This is the backend for the Log Ingester, which allows you to ingest, and query 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vrutik2809/log-ingester-backend.git
+   git clone https://github.com/vrutik2809/log-ingester.git
    ```
 
 2. Navigate to the project directory:
