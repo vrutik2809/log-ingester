@@ -69,7 +69,6 @@ This is the backend for the Log Ingester, which allows you to ingest, and query 
       "parentResourceId": "server-0987"
     }
   },
-  // ... other log entries
 ]
 ```
 
